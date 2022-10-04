@@ -1,13 +1,13 @@
 # Notes
 
-##Vocabulary:
+## Vocabulary:
 
-##Operators: 
+## Operators: 
 Operators are used to perform specific mathematical and logical computations on operands.
 
 Example: +, -, /, *, %, >, <, &&, || 
 
-##Function: 
+## Function: 
 A function is a block of code that may take an input and return an output based on a specified task. 
 ```js
 function someText(string){
@@ -17,10 +17,10 @@ function someText(string){
 someText("hello")
 ```
 
-##Argument: 
+## Argument: 
 The Value that is passed Into a function to test. 
 
-##Parameter: 
+## Parameter: 
 A parameter is a named variable passed into a function. Parameter variables are used to import arguments into functions
 
 
